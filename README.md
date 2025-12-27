@@ -1,5 +1,15 @@
 ## 2️⃣ BCG Sales & Profitability Dashboard
 
+### 📌 About This Project
+
+This project is inspired by consulting-style executive dashboards, focusing on understanding not just sales growth but true profitability drivers across regions and products. The objective was to provide leadership with a high-level strategic view of business performance.
+
+The dashboard emphasizes clean data modeling, profit and margin analysis, and well-structured KPIs to uncover where value is actually being created. Insights are presented in a concise, executive-friendly format aligned with real consulting deliverables.
+
+This project reflects my ability to think beyond raw numbers and deliver strategy-oriented analytics suitable for senior management decision-making.
+
+
+
 ### 📌 Business Problem (WHY)
 
 Senior leadership needs an executive-level view to understand not just revenue growth, but profitability drivers across regions and products. Traditional reports focus on sales numbers but fail to explain where real value is created.
@@ -37,3 +47,4 @@ Senior leadership needs an executive-level view to understand not just revenue g
 ### 🚀 Business Impact
 
 Enables leadership to take data-driven decisions on pricing, regional focus, and long-term strategy.
+
