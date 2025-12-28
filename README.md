@@ -1,4 +1,4 @@
-## 2️⃣ BCG Sales & Profitability Dashboard
+## BCG Sales & Profitability Dashboard
 
 ### 📌 About This Project
 
@@ -47,4 +47,5 @@ Senior leadership needs an executive-level view to understand not just revenue g
 ### 🚀 Business Impact
 
 Enables leadership to take data-driven decisions on pricing, regional focus, and long-term strategy.
+
 
